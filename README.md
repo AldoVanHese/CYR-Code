@@ -209,7 +209,7 @@ Connectieschema Momenteel:
 
 Nadeel:
 -     Laptop vereist
-    - Wifi vereist
+-     Wifi vereist
  
 <p align="left">
   <img src="Pictures/Schema Boombox 2.png" width="50%">
