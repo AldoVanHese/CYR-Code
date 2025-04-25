@@ -205,3 +205,8 @@ Connectieschema Momenteel:
 <p align="left">
   <img src="Pictures/Schema Boombox 1.png" width="33%">
   <img src="Pictures/Schema Touchbox 1.png" width="33%">
+
+
+Nadeel
+    - Laptop vereist
+    - Wifi vereist
