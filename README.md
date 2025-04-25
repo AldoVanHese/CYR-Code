@@ -70,7 +70,7 @@ bool isMetalTouched() {
 
 
 Code Boombox:
-
+Geschreven voor Arduino IDE
 ```C++
 /*
  * PIN AANSLUITINGEN
